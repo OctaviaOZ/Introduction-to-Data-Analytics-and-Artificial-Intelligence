@@ -36,6 +36,7 @@ Findings most sought skills to get more money:
 - is using big data and analytics products: AWS Redshift, IBM Cloud Analytics Engine, AWS Athena, Snowflake; machine learning products: Amazon Transcribe, DataRobot, Azure Speaker Recognition API; relational database products: IBM Cloud Compose, Google Cloud Bigtable; cloud computing products: AWS Elastic Compute Cloud (EC2); machine learning frameworks: Mxnet, Prophet, Fastai.
 - to work with ‘Time Series Data’ Type of Data; Prog. Languages C#/.NET, Jupyter/IPython’.
 - to have the expertise of using ML methods many years.
+
 But can we say our captured data are random?
 
 
